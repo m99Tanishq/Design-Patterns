@@ -1,5 +1,7 @@
 // Observer Design Pattern
 
+// YT link -> https://youtu.be/X_qgljbTu9s?feature=shared
+
 // The Observer Pattern is a behavioral software design pattern that defines a one-to-many dependency between objects. It allows an object (called the subject) to notify other objects (called observers) about any changes in its state
 
 import java.util.ArrayList;
